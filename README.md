@@ -1,1 +1,1 @@
-# Clase-3---K-folding-TFIDF-Dask-
+# Clase 2: K folding - TFIDF - Dask
